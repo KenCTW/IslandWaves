@@ -23,7 +23,7 @@ Notation:
 	L for isLand, 
 	M for Main.
 
-These functionss are very similar to Matlab codes (bigi*) that can be found at https://www2.whoi.edu/staff/kbrink/software/matlab-links/ .
+These functions are very similar to Matlab codes (bigi*) that can be found at https://www2.whoi.edu/staff/kbrink/software/matlab-links/ .
 
 
 -	K.H. Brink
