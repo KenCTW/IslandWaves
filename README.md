@@ -19,9 +19,9 @@ jLWaves: Allows a complex wave frequency, and so is applicable to problems invol
 
 
 Notation:
-	j for Julia
-	L for isLand 
-	M for Main
+	j for Julia,
+	L for isLand, 
+	M for Main.
 
 These functionss are very similar to Matlab codes (bigi*) that can be found at https://www2.whoi.edu/staff/kbrink/software/matlab-links/ .
 
